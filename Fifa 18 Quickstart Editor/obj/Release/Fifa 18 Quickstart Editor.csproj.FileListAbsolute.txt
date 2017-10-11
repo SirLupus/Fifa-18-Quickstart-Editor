@@ -1,0 +1,10 @@
+C:\Users\Wolfgang\Documents\SharpDevelop Projects\Fifa 18 Quickstart Editor\Fifa 18 Quickstart Editor\obj\Release\Fifa 18 Quickstart Editor.csprojResolveAssemblyReference.cache
+C:\Users\Wolfgang\Documents\SharpDevelop Projects\Fifa 18 Quickstart Editor\Fifa 18 Quickstart Editor\bin\Release\Fifa 18 Quickstart Editor.exe.config
+C:\Users\Wolfgang\Documents\SharpDevelop Projects\Fifa 18 Quickstart Editor\Fifa 18 Quickstart Editor\bin\Release\Fifa 18 Quickstart Editor.exe
+C:\Users\Wolfgang\Documents\SharpDevelop Projects\Fifa 18 Quickstart Editor\Fifa 18 Quickstart Editor\bin\Release\INIFileParser.dll
+C:\Users\Wolfgang\Documents\SharpDevelop Projects\Fifa 18 Quickstart Editor\Fifa 18 Quickstart Editor\bin\Release\SharpConfig.dll
+C:\Users\Wolfgang\Documents\SharpDevelop Projects\Fifa 18 Quickstart Editor\Fifa 18 Quickstart Editor\bin\Release\INIFileParser.xml
+C:\Users\Wolfgang\Documents\SharpDevelop Projects\Fifa 18 Quickstart Editor\Fifa 18 Quickstart Editor\bin\Release\SharpConfig.xml
+C:\Users\Wolfgang\Documents\SharpDevelop Projects\Fifa 18 Quickstart Editor\Fifa 18 Quickstart Editor\obj\Release\Fifa_18_Quickstart_Editor.MainForm.resources
+C:\Users\Wolfgang\Documents\SharpDevelop Projects\Fifa 18 Quickstart Editor\Fifa 18 Quickstart Editor\obj\Release\Fifa 18 Quickstart Editor.csproj.GenerateResource.Cache
+C:\Users\Wolfgang\Documents\SharpDevelop Projects\Fifa 18 Quickstart Editor\Fifa 18 Quickstart Editor\obj\Release\Fifa 18 Quickstart Editor.exe
